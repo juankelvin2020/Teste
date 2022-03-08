@@ -1229,14 +1229,8 @@ http://lb.kstream.org/aovivo/FHD_PLAYTV/video.m3u8?token=a9ea9f808b8ed0f615e1c59
 http://lb.kstream.org/aovivo/HD_PLAYTV/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="Play TV HD [Alter]" tvg-name="Play TV HD [Alter]" tvg-logo="https://i.ibb.co/W6LxfVC/GPlayTVHD.png" group-title="Entretenimento",Play TV HD [Alter]
 http://lb.kstream.org/aovivo/HD_PLAYTV_ALTER/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Playboy TV" tvg-name="Playboy TV" tvg-logo="https://i.ibb.co/9bnKwdZ/BPlayboyTVSD.png" group-title="Adulto",Playboy TV
-http://lb.kstream.org/aovivo/SD_PLAYBOY/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Playboy TV FHD" tvg-name="Playboy TV FHD" tvg-logo="https://i.ibb.co/xHJsNmh/BPlayboyTVFHD.png" group-title="Adulto",Playboy TV FHD
-http://lb.kstream.org/aovivo/FHD_PLAYBOY/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Playboy TV HD" tvg-name="Playboy TV HD" tvg-logo="https://i.ibb.co/5BjcgyT/BPlayboyTVHD.png" group-title="Adulto",Playboy TV HD
-http://lb.kstream.org/aovivo/HD_PLAYBOY/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Playboy TV HD [Alter]" tvg-name="Playboy TV HD [Alter]" tvg-logo="https://i.ibb.co/pzyWBdN/GPlayboyTVHD.png" group-title="Adulto",Playboy TV HD [Alter]
-http://lb.kstream.org/aovivo/HD_PLAYBOY_ALTER/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
+
+
 #EXTINF:-1 type="stream" tvg-id="Polishop TV" tvg-name="Polishop TV" tvg-logo="https://i.ibb.co/yWpp4JS/BPolishopSD.png" group-title="Variedade",Polishop TV
 http://lb.kstream.org/aovivo/SD_POLISHOP/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://i.ibb.co/QYG5Jnr/BPremiereSD.png" group-title="Premiere",Premiere 2
@@ -1441,20 +1435,7 @@ http://lb.kstream.org/aovivo/HD_SBT_SP/video.m3u8?token=a9ea9f808b8ed0f615e1c59d
 http://lb.kstream.org/aovivo/FHD_SABOR_ARTE/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="Sabor e Arte HD" tvg-name="Sabor e Arte HD" tvg-logo="https://i.ibb.co/GMGj8YF/BSaborArteHD.png" group-title="Variedade",Sabor e Arte HD
 http://lb.kstream.org/aovivo/HD_SABOR_ARTE/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="SexPrive" tvg-name="SexPrive" tvg-logo="https://i.ibb.co/7vP1KfT/BSexpriveSD.png" group-title="Adulto",SexPrive
-http://lb.kstream.org/aovivo/SD_SEX_PRIVE/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="SexPrive FHD" tvg-name="SexPrive FHD" tvg-logo="https://i.ibb.co/hsZ8yXg/BSexpriveFHD.png" group-title="Adulto",SexPrive FHD
-http://lb.kstream.org/aovivo/FHD_SEXPRIVE/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="SexPrive HD" tvg-name="SexPrive HD" tvg-logo="https://i.ibb.co/KWMftVy/BSexpriveHD.png" group-title="Adulto",SexPrive HD
-http://lb.kstream.org/aovivo/HD_SEXPRIVE/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Sextreme HD" tvg-name="Sextreme HD" tvg-logo="https://i.ibb.co/wsVXcqm/BSextremeHD.png" group-title="Adulto",Sextreme HD
-http://lb.kstream.org/aovivo/HD_SEXTREME/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Sexy Hot" tvg-name="Sexy Hot" tvg-logo="https://i.ibb.co/RzSJd6X/BSexyHotSD.png" group-title="Adulto",Sexy Hot
-http://lb.kstream.org/aovivo/SD_SEXYHOT/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Sexy Hot FHD" tvg-name="Sexy Hot FHD" tvg-logo="https://i.ibb.co/FVnKDcQ/GSexyHotFHD.png" group-title="Adulto",Sexy Hot FHD
-http://lb.kstream.org/aovivo/FHD_SEXY_HOT/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Sexy Hot HD" tvg-name="Sexy Hot HD" tvg-logo="https://i.ibb.co/h8FkNKL/BSexyHotHD.png" group-title="Adulto",Sexy Hot HD
-http://lb.kstream.org/aovivo/HD_SEXHOT/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
+
 #EXTINF:-1 type="stream" tvg-id="Shoptime" tvg-name="Shoptime" tvg-logo="https://i.ibb.co/3zyqVpw/BShoptimeHD.png" group-title="Variedade",Shoptime
 http://lb.kstream.org/aovivo/HD_SHOPTIME/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="Smithsonian" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/Y3Fk69W/BSmithsonianSD.png" group-title="Documentario",Smithsonian
@@ -1783,10 +1764,7 @@ http://lb.kstream.org/aovivo/HD_VH1/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3d
 http://lb.kstream.org/aovivo/HD_VH1_ALTER/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="VH1 Megahits HD" tvg-name="VH1 Megahits HD" tvg-logo="https://i.ibb.co/X2NgzNV/BVH1MegahitsSD.png" group-title="Entretenimento",VH1 Megahits HD
 http://lb.kstream.org/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Venus" tvg-name="Venus" tvg-logo="https://i.ibb.co/YtzmG2X/BVenusSD.png" group-title="Adulto",Venus
-http://lb.kstream.org/aovivo/SD_VENUS/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="Venus HD" tvg-name="Venus HD" tvg-logo="https://i.ibb.co/1fbrF3V/BVenusHD.png" group-title="Adulto",Venus HD
-http://lb.kstream.org/aovivo/HD_VENUS/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
+
 #EXTINF:-1 type="stream" tvg-id="Viva" tvg-name="Viva" tvg-logo="https://i.ibb.co/w7mwHxX/BVivaSD.png" group-title="Variedade",Viva
 http://lb.kstream.org/aovivo/SD_VIVA/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="Viva FHD" tvg-name="Viva FHD" tvg-logo="https://i.ibb.co/jz82bZ6/BVivaFHD.png" group-title="Variedade",Viva FHD
@@ -1815,40 +1793,7 @@ http://lb.kstream.org/aovivo/FHD_WOOHOO_ALTER/video.m3u8?token=a9ea9f808b8ed0f61
 http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="Woohoo HD [Alter]" tvg-name="Woohoo HD [Alter]" tvg-logo="https://i.ibb.co/cQKryZw/GWoohooHD.png" group-title="Variedade",Woohoo HD [Alter]
 http://lb.kstream.org/aovivo/HD_WOOHOO_ALTER/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 1 (Hustler)" tvg-name="XXX 1 (Hustler)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 1 (Hustler)
-http://lb.kstream.org/aovivo/XXX_1/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 10 (Candy)" tvg-name="XXX 10 (Candy)" tvg-logo="https://i.ibb.co/9gPdBQT/B18SD.png" group-title="Adulto",XXX 10 (Candy)
-http://lb.kstream.org/aovivo/XXX_10/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 11 (XXL)" tvg-name="XXX 11 (XXL)" tvg-logo="https://i.ibb.co/9gPdBQT/B18SD.png" group-title="Adulto",XXX 11 (XXL)
-http://lb.kstream.org/aovivo/XXX_11/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 12 (Vivid Red)" tvg-name="XXX 12 (Vivid Red)" tvg-logo="https://i.ibb.co/9gPdBQT/B18SD.png" group-title="Adulto",XXX 12 (Vivid Red)
-http://lb.kstream.org/aovivo/XXX_12/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 13 (FAP TV Teens)" tvg-name="XXX 13 (FAP TV Teens)" tvg-logo="https://i.ibb.co/9gPdBQT/B18SD.png" group-title="Adulto",XXX 13 (FAP TV Teens)
-http://lb.kstream.org/aovivo/XXX_13/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 14 (FAP TV Anal)" tvg-name="XXX 14 (FAP TV Anal)" tvg-logo="https://i.ibb.co/9gPdBQT/B18SD.png" group-title="Adulto",XXX 14 (FAP TV Anal)
-http://lb.kstream.org/aovivo/XXX_14/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 15 (FAP TV Lesbian)" tvg-name="XXX 15 (FAP TV Lesbian)" tvg-logo="https://i.ibb.co/9gPdBQT/B18SD.png" group-title="Adulto",XXX 15 (FAP TV Lesbian)
-http://lb.kstream.org/aovivo/XXX_15/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 16 (TRANS)" tvg-name="XXX 16 (TRANS)" tvg-logo="https://i.ibb.co/9gPdBQT/B18SD.png" group-title="Adulto",XXX 16 (TRANS)
-http://lb.kstream.org/aovivo/XXX_16/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 17 (GAY)" tvg-name="XXX 17 (GAY)" tvg-logo="https://i.ibb.co/9gPdBQT/B18SD.png" group-title="Adulto",XXX 17 (GAY)
-http://lb.kstream.org/aovivo/XXX_17/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 2 (Reality Kings)" tvg-name="XXX 2 (Reality Kings)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 2 (Reality Kings)
-http://lb.kstream.org/aovivo/XXX_2/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 3 (Brazzers TV Europe)" tvg-name="XXX 3 (Brazzers TV Europe)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 3 (Brazzers TV Europe)
-http://lb.kstream.org/aovivo/XXX_ADULT_3/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 4 (DORCEL CLUB)" tvg-name="XXX 4 (DORCEL CLUB)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 4 (DORCEL CLUB)
-http://lb.kstream.org/aovivo/XXX_4/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 5 (Miami TV)" tvg-name="XXX 5 (Miami TV)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 5 (Miami TV)
-http://lb.kstream.org/aovivo/XXX_5/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 6 (Penthouse)" tvg-name="XXX 6 (Penthouse)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 6 (Penthouse)
-http://lb.kstream.org/aovivo/XXX_6/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 7 (FAP TV Teen)" tvg-name="XXX 7 (FAP TV Teen)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 7 (FAP TV Teen)
-http://lb.kstream.org/aovivo/XXX_7/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 8 (REDLIGHT)" tvg-name="XXX 8 (REDLIGHT)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 8 (REDLIGHT)
-http://lb.kstream.org/aovivo/XXX_8/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
-#EXTINF:-1 type="stream" tvg-id="XXX 9 (Blue Hustler)" tvg-name="XXX 9 (Blue Hustler)" tvg-logo="https://i.ibb.co/ggdPghN/B18HD.png" group-title="Adulto",XXX 9 (Blue Hustler)
-http://lb.kstream.org/aovivo/XXX_9/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
+
 #EXTINF:-1 type="stream" tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://i.ibb.co/4Yq1Rdk/BZooMooSD.png" group-title="Infantil",ZooMoo
 http://lb.kstream.org/aovivo/SD_ZOOMOO/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="ZooMoo HD" tvg-name="ZooMoo HD" tvg-logo="https://i.ibb.co/PQDk2DF/BZooMooHD.png" group-title="Infantil",ZooMoo HD
