@@ -349,3 +349,11 @@ http://lb.kstream.org/aovivo/FHD_TC_PREMIUM/video.m3u8?token=a9ea9f808b8ed0f615e
 http://lb.kstream.org/aovivo/SD_TC_TOUCH/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
 #EXTINF:-1 type="stream" tvg-id="Telecine Touch FHD" tvg-name="Telecine Touch FHD" tvg-logo="https://i.ibb.co/YtRQNVs/BTelecineTouchFHD.png" group-title="Telecine",Telecine Touch FHD
 http://lb.kstream.org/aovivo/FHD_TC_TOUCH/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
+
+
+#EXTINF:-1 type="stream" tvg-id="Multishow" tvg-name="Multishow" tvg-logo="https://i.ibb.co/LRzSjsX/BMultishowSD.png" group-title="Entretenimento",Multishow
+http://lb.kstream.org/aovivo/SD_MULTISHOW/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
+#EXTINF:-1 type="stream" tvg-id="Multishow 4K" tvg-name="Multishow 4K" tvg-logo="https://i.ibb.co/yytg3Pt/BMultishow4K.png" group-title="Entretenimento",Multishow 4K
+http://lb.kstream.org/aovivo/4K_MULTISHOW/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
+#EXTINF:-1 type="stream" tvg-id="Multishow FHD" tvg-name="Multishow FHD" tvg-logo="https://i.ibb.co/Zm7C8wS/BMultishowFHD.png" group-title="Entretenimento",Multishow FHD
+http://lb.kstream.org/aovivo/FHD_MULTISHOW/video.m3u8?token=a9ea9f808b8ed0f615e1c59db3de80b5
