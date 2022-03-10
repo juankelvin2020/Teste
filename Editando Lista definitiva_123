@@ -48,3 +48,7 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://a.storyblok.com/f/104379/261x174/37dd4e4f02/tc-premium-zigzag-4.jpg" group-title="CANAIS", Telecine Premium
 https://live.xvideosporn.me/p2p/tlcpremium/chunks.m3u8?nimblesessionid=94854&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIyIDQ6NTk6MTMgUE0maGFzaF92YWx1ZT1sa1padTZacnVlYTZhSG52blRGT3ZnPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/tcpipoca.png" group-title="CANAIS", Telecine Pipoca
+https://live.xvideosporn.me/p2p/tlcpipoca/chunks.m3u8?nimblesessionid=95137&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIyIDU6MTM6NDUgUE0maGFzaF92YWx1ZT1vaktxcHpuRlMxL1NMNDdEdGZ1aTBBPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bandsports2006.png/revision/latest?cb=20191115220657" group-title="CANAIS", Band Sports
+https://live.xvideosporn.me/p2p/bandsport/chunks.m3u8?nimblesessionid=95225&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIyIDU6MTc6MTIgUE0maGFzaF92YWx1ZT1mY3BhT09heG5VbC81NzhWZVpybWNBPT0mdmFsaWRtaW51dGVzPTkw
