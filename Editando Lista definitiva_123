@@ -30,9 +30,9 @@ https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="CANAIS", Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IMDSFULL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUK0hsOuri45C4cH94oMcda-mEq-_diKKTTg&usqp=CAU" group-title="CANAIS",Mosaico 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUK0hsOuri45C4cH94oMcda-mEq-_diKKTTg&usqp=CAU" group-title="CANAIS", Mosaico 1
 http://tv.nowiptv.net:8880//live/dito01/01dito/39534.ts
-#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://www.m3u.cl/logo/574_All_Sports.png" group-title="CANAIS",All Sports
+#EXTINF:-1 tvg-id="574" tvg-name="All Sports" tvg-logo="https://www.m3u.cl/logo/574_All_Sports.png" group-title="CANAIS", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://www.m3u.cl/logo/1100_DEPORTV.png" group-title="CANAIS",DEPORTV
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://www.m3u.cl/logo/1100_DEPORTV.png" group-title="CANAIS", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
