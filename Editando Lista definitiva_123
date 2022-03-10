@@ -15,6 +15,8 @@ http://tv.minhalista.me/live/raminho123/raminho123/62794.ts
 http://tv.minhalista.me/live/raminho123/raminho123/50691.ts
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL | Dual Áudio " tvg-name="DISCOVERY CHANNEL | Dual Áudio" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="CANAIS",DISCOVERY CHANNEL[ALT]
 https://live.xvideosporn.me/p3p/discoverych/p2p/discoverych_720p/chunks.m3u8?nimblesessionid=95601&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIyIDU6MzA6NTYgUE0maGFzaF92YWx1ZT1oeTltMkFMVDNETm1lUnZvWndHeVFnPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png" group-title="CANAIS",DISCOVERY SCIENCE
+http://50.7.34.155:2201/BR/Discovery_Science_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="CANAIS",NATGEO WILD
 http://tv.minhalista.me/live/raminho123/raminho123/62882.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGNAfCfyFtUPWSVm9Afw6qwrPiqJFQg6uqA&usqp=CAU" group-title="CANAIS",GLOOB 
