@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix H265" tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png" group-title="CANAIS",MegaPix
+http://tv.minhalista.me/live/raminho123/raminho123/62868.ts
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="CANAIS", L❤VE NATURE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE  [ALT]" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAIS",GLOBO NORDESTE
+http://tv.minhalista.me/live/raminho123/raminho123/51148.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS", SBT
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET | Dual Áudio " tvg-name="ANIMAL PLANET | Dual Áudio" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="CANAIS",ANIMAL PLANET
+http://tv.minhalista.me/live/raminho123/raminho123/62794.ts
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL | Dual Áudio " tvg-name="DISCOVERY CHANNEL | Dual Áudio" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="CANAIS",DISCOVERY CHANNEL
+http://tv.minhalista.me/live/raminho123/raminho123/50691.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="CANAIS",NATGEO WILD
+http://tv.minhalista.me/live/raminho123/raminho123/62882.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGNAfCfyFtUPWSVm9Afw6qwrPiqJFQg6uqA&usqp=CAU" group-title="CANAIS",GLOOB 
+http://tv.minhalista.me/live/raminho123/raminho123/62843.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD  [ALT]" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="CANAIS",DISCOVERY KIDS HD
+http://tv.minhalista.me/live/raminho123/raminho123/50706.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tuXImQIQRTmlgAnent8zlxq8VvNFye1G8A&usqp=CAU" group-title="CANAIS", TV Séries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48VMVoPBVevlcldlp2MruMO-hIdT1WO9M-Q&usqp=CAU" group-title="CANAIS", Band News
+http://tv.minhalista.me/live/raminho123/raminho123/62797.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="CANAIS", Nickelodeon
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-white.png" group-title="CANAIS", CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="CANAIS", Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUK0hsOuri45C4cH94oMcda-mEq-_diKKTTg&usqp=CAU" group-title="CANAIS",Mosaico 1
+http://tv.nowiptv.net:8880//live/dito01/01dito/39534.ts
