@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/18/02/2861381.jpg" group-title="FILMES DESENHOS",Encanto [ALT]
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/18/02/2861381.jpg" group-title="FILMES DESENHOS",Encanto[ALT]
 https://video.wixstatic.com/video/4f65a8_cda5d25fc4fd45eea274e2167c4c7db8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/18/02/2861381.jpg" group-title="FILMES DESENHOS",Encanto
@@ -27,3 +27,6 @@ https://861635218.tapecontent.net/radosgw/WDQ3gY8peZf0vG/rjS_H2JBfg_gTL7l0VRnEZt
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jpg-zqGSH4JxfcMq10l-mu81noSTA_7VNQDm3bBLspTCTK2UNtBMDudUv3ZzyAbwCho&usqp=CAU" group-title="Sessão de Terapia - Temporada 01", Episódio 01 - T01 - Júlia - Sessão 01
 https://rr1---sn-bg0eznle.c.drive.google.com/videoplayback?expire=1647154755&ei=Al4tYrLzPNbvrvIPruAk&ip=177.55.242.198&cp=QVRJWUJfU1dTRlhPOjltQXI4bFJMTlg0ZXNoQk1Rb3lheGdBWldiTW4wNWp0MUgwQXVQcUt4OUY&id=c8ecf8a6786fa10d&itag=18&source=webdrive&requiressl=yes&ttl=transient&susc=dr&driveid=1FS5KoqpnIFCZeGFD13YA2Sm7D5W4GWVo&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=1699.561&lmt=1647139224155618&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgJs_-GPxhoZiGrvonvYushrOdZc94YAn9IiplHgPbq_ACIQD_f2UdW3st6lqQLQqWRYfWrOYQLp0sMJOdp48qEMq-Rw==&cpn=p3OlQEwxncyPW0Ut&c=WEB_EMBEDDED_PLAYER&cver=1.20220309.01.01&redirect_counter=1&cm2rm=sn-gpvek7e&fexp=24162928&req_id=e710b83adc7736e2&cms_redirect=yes&cmsv=e&mh=Y2&mm=34&mn=sn-bg0eznle&ms=ltu&mt=1647140208&mv=m&mvi=1&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgT1dU7JTXe-9u7Rf6iRl_XhBQiYMJfYmXqwKyD337yvwCID_Fur6xVgkrhyDob_KCYvG_MGOdK8DABZmz_Yl4beAj
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jpg-zqGSH4JxfcMq10l-mu81noSTA_7VNQDm3bBLspTCTK2UNtBMDudUv3ZzyAbwCho&usqp=CAU" group-title="Sessão de Terapia - Temporada 01", Episódio teste
+https://drive.google.com/u/5/uc?id=1FS5KoqpnIFCZeGFD13YA2Sm7D5W4GWVo&export=download
