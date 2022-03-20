@@ -1,7 +1,4 @@
 #EXTM3U
-###########################
-## Ballers - 1° temporada
-############################
 
 #EXTINF:Ballers Temp 1, EP 01 - Pilote
 http://cdnfe3.azureedge.net/RCServer09/ondemand/BALRST01EP01.mp4?attachment=true
@@ -24,9 +21,6 @@ http://cdnfe3.azureedge.net/RCServer09/ondemand/BALRST01EP09.mp4?attachment=true
 #EXTINF:Ballers Temp 1, EP 10 - Flamingos
 http://cdnfe3.azureedge.net/RCServer09/ondemand/BALRST01EP10.mp4?attachment=true
 
-###########################
-## Ballers - 2° temporada
-############################
 
 #EXTINF:Ballers Temp 2, EP 1  - Rosto da Franquia 
 http://cdnfe3.azureedge.net/RCServer10/ondemand/BALRST02EP01.mp4?attachment=true
@@ -49,9 +43,6 @@ http://cdnfe3.azureedge.net/RCServer10/ondemand/BALRST02EP09.mp4?attachment=true
 #EXTINF:Ballers Temp 2, EP 10  - Dia de Jogo 
 http://cdnfe3.azureedge.net/RCServer11/ondemand/BALRST02EP10.mp4?attachment=true
 
-###########################
-## Ballers - 3° temporada
-############################
 
 #EXTINF:Ballers Temp 3, EP 1 - Sementes de Expansão
 http://cdnfe3.azureedge.net/RCServer09/ondemand/BALRST03EP01.mp4?attachment=true
@@ -74,9 +65,6 @@ http://cdnfe3.azureedge.net/RCServer09/ondemand/BALRST03EP09.mp4?attachment=true
 #EXTINF:Ballers Temp 3, EP 10 - Área de Yay
 http://cdnfe3.azureedge.net/RCServer09/ondemand/BALRST03EP10.mp4?attachment=true
 
-###########################
-## Ballers - 4° temporada
-############################
 
 #EXTINF:Ballers Temp 4, Ep 1
 http://cdnfe2.azureedge.net/RCServer13/ondemand/BALRST04EP01.mp4?attachment=true
@@ -96,11 +84,6 @@ http://cdnfe2.azureedge.net/RCServer13/ondemand/BALRST04EP07.mp4?attachment=true
 http://cdnfe2.azureedge.net/RCServer13/ondemand/BALRST04EP08.mp4?attachment=true
 #EXTINF:Ballers Temp 4, Ep 9
 http://cdnfe2.azureedge.net/RCServer13/ondemand/BALRST04EP09.mp4?attachment=true
-
-
-###################################
-## Largados e pelados - 1 temporada 
-###################################
 
 
 #EXTINF:Largados e pelados Temp 1, Ep 1
@@ -186,11 +169,6 @@ http://cdnfe2.azureedge.net/RCServer03/ondemand/LRGDSEPLDST01EP27.mp4?attachment
 
 #EXTINF:Largados e pelados Temp 1, Ep 28
 http://cdnfe2.azureedge.net/RCServer03/ondemand/LRGDSEPLDST01EP28.mp4?attachment=true
-
-
-####################################
-## Largados e pelados - 2° temporada
-####################################
 
 
 #EXTINF:Largados e pelados Temp 2, Ep 00
